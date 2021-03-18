@@ -13,9 +13,7 @@
 
 
 ### Languages and Tools:
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/flutter.png" height="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/php.png" height="30"> 
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/mysql.png" height="30">
+<img src="https://github.com/serdarpolat/serdarpolat/blob/master/flutter.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/php.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/mysql.png" height="30">
 
 ## Stats
 <p align="center">
