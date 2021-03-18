@@ -10,10 +10,6 @@
 [<img src="https://github.com/serdarpolat/serdarpolat/blob/master/gmail.png" width="30">](mailto:cemcolpan@gmail.com)
 [<img src="https://github.com/serdarpolat/serdarpolat/blob/master/linkedin.png" width="30">](https://www.linkedin.com/in/cem-colpan/)
 
-
-### Languages and Tools:
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/flutter.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/php.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/mysql.png" height="30">
-
 ## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cemcolpan&show_icons=true&include_all_commits=true" />
